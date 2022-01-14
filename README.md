@@ -21,6 +21,9 @@ $ chmod +x *
 $ ls
 $ python3 InstaReporter.py
 
+Username : RedHackers
+Password : Army
+
  Tool Installation successful
 
 ```
@@ -38,7 +41,10 @@ git clone https://github.com/Aryan-mfc/Instagram
 cd lnstagram
 chmod +x *
 ls
-.python3 InstaReporter.py
+python3 InstaReporter.py
+
+Username : RedHackers
+Password : Army
 
  Tool Installation successful
 
