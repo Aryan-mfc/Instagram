@@ -21,8 +21,6 @@ $ chmod +x *
 $ ls
 $ python3 InstaReporter.py
 
-Username : RedHackers
-Password : Army
 
  Tool Installation successful
 
@@ -43,8 +41,6 @@ chmod +x *
 ls
 python3 InstaReporter.py
 
-Username : RedHackers
-Password : Army
 
  Tool Installation successful
 
