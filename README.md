@@ -82,5 +82,6 @@ ls
 </p>
  
  
-# Thanks Forr Using
+# Thanks For Using
+# Red Hackers Army
 
